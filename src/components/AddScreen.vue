@@ -26,7 +26,6 @@ export default {
   background-color: #696969;
   position: relative;
   min-height: 120px;
-  cursor: pointer;
 }
 
 .add-btn::before {
